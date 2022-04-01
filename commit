@@ -1,4 +1,5 @@
 #/bin/bash
 git add *
 git commit
-git push https://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@github.com/sam-hieken/Assembly-Guesser.git
+git push --set-upstream https://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@github.com/sam-hieken/Assembly-Guesser.git master
+
